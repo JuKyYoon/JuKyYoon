@@ -2,10 +2,13 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=JuKyung%20Yoon&fontSize=30" />
 </h2>
 
+<center>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuKyYoon&count_private=true&show_icons=true&theme=dracula)
 
+</center>  
 
-# I used...
+# I used
 
 ## Language
 ![java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -68,6 +71,21 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
 ![fabricjs](https://img.shields.io/badge/FabricJS-FFC0CB?style=flat-square&logo=javascripst&logoColor=black)
 
+
+---
+
+
+<!-- <center>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuKyYoon&layout=compact&theme=dracula)
+
+</center> -->
+
+<center>
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@JKY&layout=compact&theme=dracula)
+
+</center>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJuKyYoon%2Fhit-counter&count_bg=%235AB69B&title_bg=%23313131&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
