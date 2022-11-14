@@ -2,12 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=JuKyung%20Yoon&fontSize=30" />
 </h2>
 
-<center>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuKyYoon&count_private=true&show_icons=true&theme=dracula)
-
-</center>  
-
 # I used
 
 ## Language
@@ -80,6 +74,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuKyYoon&layout=compact&theme=dracula)
 
 </center> -->
+
+
+<center>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuKyYoon&count_private=true&show_icons=true&theme=dracula)
+
+</center>  
+
 
 <center>
 
